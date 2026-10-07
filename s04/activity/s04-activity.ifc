@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('ViewDefinition[DesignTransferView]'),'2;1');
-FILE_NAME('s04-activity.ifc','2026-10-06T00:21:07+08:00',(''),(''),'IfcOpenShell 0.8.5-post1','Bonsai 0.8.5-post1','Nobody');
+FILE_NAME('s04-activity.ifc','2026-10-07T13:07:39+08:00',(''),(''),'IfcOpenShell 0.8.5-post1','Bonsai 0.8.5-post1','Nobody');
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
